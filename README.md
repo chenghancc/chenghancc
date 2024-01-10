@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   Hey, I'm Han! 👋
 </h1>
-<img align="right" top='60' alt="GIF" src="https://github.com/chenghancc/chenghancc/blob/main/pic/display.gif" width="480"/>
+<img align="right" top='60' alt="GIF" src="https://github.com/chenghancc/chenghancc/main/pic/display.gif" width="480"/>
 
 <br/>
 
