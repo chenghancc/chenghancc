@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![ChengHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenghancc)
 
-🤔![Visitor Count](https://profile-counter.glitch.me/chenghancc/count.svg) people have seen my github
+- 🤔 My ![Visitor Count](https://profile-counter.glitch.me/chenghancc/count.svg) visitors!
