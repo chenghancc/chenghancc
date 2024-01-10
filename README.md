@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![ChengHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenghancc)
+[![ChengHan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chenghancc)](https://github.com/chenghancc/github-readme-stats)
 
 - 🤔 My ![Visitor Count](https://profile-counter.glitch.me/chenghancc/count.svg) visitors!
