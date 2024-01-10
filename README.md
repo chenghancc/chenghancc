@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 ![ChengHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenghancc)
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
