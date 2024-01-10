@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+  Hey, I'm Han! 👋
+</h1>
+
 ## 🌠[Coding Time]
 > the projects I'm working on
-
-> 2024, keep going!
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=chenghancc&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenghancc&hide=Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6" />
