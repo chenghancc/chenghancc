@@ -19,7 +19,9 @@ Here are some ideas to get you started:
   Hey, I'm Han! 👋
 </h1>
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+
 <br/>
+
 - 😄  A post-00s program developer.
 - ⚡  I want to become a super cool developer.
 - 👨‍🎓  WuHan University.
@@ -29,6 +31,7 @@ Here are some ideas to get you started:
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/chenghancc/count.svg)th visitor
 
+<br/>
 <br/>
 
 ## 🌠[Coding Time]
