@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 😄  A post-00s program developer.
-- ⚡  I want to become a super cool developer.
-- 👨‍🎓  WuHan University.
-- 📧  [chenghan@whu.edu.cn](han:chenghan@whu.edu.cn).
+- 😄  A post-00s program developer
+- ⚡  I want to become a super cool developer
+- 👨‍🎓  WuHan University
+- 📧  [chenghancn@foxmail.com](Han:chenghancn@foxmail.com)
+- 🌱 Keep going
 <br/>
 <br/>
 
