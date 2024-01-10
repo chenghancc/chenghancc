@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 😄  A post-00s program developer
+- 😄  A program developer
 - ⚡  I want to become a super cool developer
 - 👨‍🎓  WuHan University
 - 📧  [chenghancn@foxmail.com](Han:chenghancn@foxmail.com)
