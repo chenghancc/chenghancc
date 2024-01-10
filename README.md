@@ -19,6 +19,16 @@ Here are some ideas to get you started:
   Hey, I'm Han! 👋
 </h1>
 
+<br/>
+
+- 🍒  A post-00s program developer.
+- 📍   HeFei.
+- 👨‍🎓  WuHan University.
+- 👨‍🦳  Father of two girls.
+- 📧  [chenghan@whu.edu.cn](han:chenghan@whu.edu.cn).
+<br/>
+<br/>
+
 ## 🌠[Coding Time]
 > the projects I'm working on
 <div>
