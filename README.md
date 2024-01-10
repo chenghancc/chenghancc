@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>![ChengHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenghancc)</center>
-
-<center>[![ChengHan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chenghancc)](https://github.com/chenghancc/github-readme-stats)</center>
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=chenghancc&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenghancc&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 
 - 🤔 My ![Visitor Count](https://profile-counter.glitch.me/chenghancc/count.svg) visitors!
