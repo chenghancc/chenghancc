@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 You are my ![Visitor Count](https://profile-counter.glitch.me/chenghancc/count.svg)th visitor
 
 <br/>
-<br/>
 
 ## 🌠[Coding Time]
 > the projects I'm working on
